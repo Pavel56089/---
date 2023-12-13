@@ -1,6 +1,3 @@
-Sure, here is a basic README.md template in English for your Python script:
-
-```markdown
 # User Survey Script
 
 This script allows users to participate in a survey by answering a series of questions. The survey questions are stored in a CSV file, and user responses are recorded in a new CSV file with a timestamped filename.
